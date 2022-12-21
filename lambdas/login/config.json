@@ -1,0 +1,6 @@
+{
+    "host"     : "forfundziesdb.ccrwttbefnjc.us-east-1.rds.amazonaws.com",
+    "user"     : "FFadmin",
+    "password" : "28Nov2022",
+    "database" : "info"
+}

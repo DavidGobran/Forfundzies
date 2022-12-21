@@ -1,0 +1,4 @@
+{
+    "body" : "{\n  \"name\" : \"create 2\",\n  \"designer\" : \"email\",\n  \"story\" : \"this is what a project should look like\",\n  \"genre\" : \"test\",\n  \"goal\" : \"1000\",\n  \"deadline\" : \"2022-12-01\"\n}"
+}
+

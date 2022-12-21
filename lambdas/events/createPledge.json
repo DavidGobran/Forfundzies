@@ -1,0 +1,3 @@
+{
+    "body" : "{\n    \"pledgeName\" : \"test1\",\n    \"projectName\" : \"full test\",\n    \"amount\" : 1000,\n    \"descript\" : \"Have a character named after you\",\n    \"currSupporters\" : 0,\n    \"maxSupporters\" : 10 \n}"
+}
