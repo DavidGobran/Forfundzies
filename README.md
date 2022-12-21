@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Setup
 
-In the project directory, you can run:
+In the app directory, you can run:
 
 ### `npm start`
 
@@ -19,6 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - Once the API has been deployed, the baseURL of instance in App.js should be updated to the appropriate URL of the API.
 
 ## Dependencies
- - This project relies on axios to make HTTP requests. You can use `npm install axios` to take advantage of this functionality.
+ - This project relies on axios to make HTTP requests. You can use `npm install axios` in the app directory to take advantage of this functionality.
 
 
