@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Forfundzies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Forfundzies is a crowdsourcing application similar to Kickstarter. It has supports three roles: (Project) Designer, Supporter, and Admin. The frontend is built in React and backend relies on AWS lambda functions.
 
 ## Setup
 
