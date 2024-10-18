@@ -1,6 +1,6 @@
 # Forfundzies
 
-Forfundzies is a crowdsourcing application similar to Kickstarter. It has supports three roles: (Project) Designer, Supporter, and Admin. The frontend is built in React and backend relies on AWS lambda functions.
+Forfundzies is a crowdsourcing application similar to Kickstarter. It has support for three roles: Project Designer, Supporter, and Admin. The frontend is built in React and backend uses Node.js lambda functions.
 
 ## Setup
 
